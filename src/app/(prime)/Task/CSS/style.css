@@ -1,0 +1,11 @@
+#btn{
+	/* border: 1px solid red; */
+	padding: 10px 25px 10px 25px;
+	background-color: teal;
+	font-size: large;
+	color: white;
+	border-radius: 10px;
+}
+#btn:hover{
+	background-color: rgb(39, 219, 219);
+}
